@@ -29,12 +29,6 @@
   list-style: none;
 }
 
-.Weather img {
-  height: 64px;
-  width: 64px;
-  float: left;
-  margin-right: 10px;
-}
 
 .Weather .temperature {
   font-weight: bold;
